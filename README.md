@@ -1,3 +1,5 @@
+<div align=center><img width="600" height="335" src="https://github.com/hao5119266/supernuomi.com/blob/master/show.png"/></div>
+
 # 介绍
 本项目主要工作是把ShaderToy上TMD大佬编写的Seascape[https://www.shadertoy.com/view/Ms2SD1] Shader改写成了纹理材料，并把它加载进了ThreeJS场景中.
 
