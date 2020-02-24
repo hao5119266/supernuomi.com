@@ -13,7 +13,7 @@ nuomi7081@qq.com
 # Introduction
 This project is based on the Seascape Shader[https://www.shadertoy.com/view/Ms2SD1] in ShaderToy by TMD.My main job is to rewrite it as texture material and load it in my ThreeJs screen .
 
-# need help
+# Need help
 Tutorial address:[https://blog.csdn.net/hao5119266/article/details/104012158]
 It's important that the correct way is to set up a small web server to run the html file.For more service build information, please refer to the official documentation of apache or nginx.
 
